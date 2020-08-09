@@ -1,0 +1,77 @@
+
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class JspFile
+ */
+@WebServlet("/JspFile")
+public class JspFile extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public JspFile() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		//response.getWriter().append("Served at: ").append(request.getContextPath());
+		response.setContentType("text/html");
+        PrintWriter out=response.getWriter();
+        out.println("<html>\r\n" + 
+        		"<%@ include file =\"includes/header.jsp\" %>\r\n" + 
+        		"<body class=\"sb-nav-fixed\">\r\n" + 
+        		"	<%@ include file =\"includes/navbar.jsp\" %>\r\n" + 
+        		"        <div id=\"layoutSidenav\">\r\n" + 
+        		"            <div id=\"layoutSidenav_nav\">\r\n" + 
+        		"            </div>\r\n" + 
+        		"            <div id=\"layoutSidenav_content\">\r\n" + 
+        		"                <main>\r\n" + 
+        		"                    <div class=\"container-fluid\">\r\n" + 
+        		"                        <h1 class=\"mt-4\">Users</h1>\r\n" + 
+        		"                        <ol class=\"breadcrumb mb-4\">\r\n" + 
+        		"                            <li class=\"breadcrumb-item\"><a href=\"index.jsp\">Dashboard</a></li>\r\n" + 
+        		"                            <li class=\"breadcrumb-item active\">Users</li>\r\n" + 
+        		"                        </ol>\r\n" + 
+        		"                        <div class=\"card mb-4\">\r\n" + 
+        		"                            <div class=\"card-header\"><i class=\"fas fa-table mr-1\"></i>DataTable Example</div>\r\n" + 
+        		"                            <div class=\"card-body\">\r\n" + 
+        		"                                <div class=\"table-responsive\">\r\n" + 
+        		"                                    \r\n" + 
+        		"                                </div>\r\n" + 
+        		"                                <a class=\"btn btn-primary\" href=\"add-user.jsp\">Add user</a>\r\n" + 
+        		"                                <a class=\"btn btn-warning\" href=\"#\">Delete User</a>\r\n" + 
+        		"                                <a class=\"btn btn-warning\" href=\"#\">Update User</a>\r\n" + 
+        		"                            </div>\r\n" + 
+        		"                        </div>\r\n" + 
+        		"                    </div>\r\n" + 
+        		"                </main>\r\n" + 
+        		"            </div>\r\n" + 
+        		"        </div>\r\n" + 
+        		"    </body>\r\n" + 
+        		"</html>");
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		doGet(request, response);
+	}
+
+}

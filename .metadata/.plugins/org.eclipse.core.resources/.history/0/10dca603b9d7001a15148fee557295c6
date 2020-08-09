@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="E-Libraries">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <property name="context-root" value="E-Libraries"/>
+        <property name="java-output-path" value="/E-Libraries/build/classes"/>
+    </wb-module>
+</project-modules>

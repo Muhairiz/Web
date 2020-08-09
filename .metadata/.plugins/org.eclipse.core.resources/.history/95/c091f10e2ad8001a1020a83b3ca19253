@@ -1,0 +1,65 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<%@ include file ="includes/header.jsp" %>
+<body class="sb-nav-fixed">
+	<%@ include file ="includes/navbar.jsp" %>
+        <div id="layoutSidenav">
+            <div id="layoutSidenav_nav">
+            </div>
+            <div id="layoutSidenav_content">
+                <main>
+                    <div class="container-fluid">
+                        <h1 class="mt-4">Users</h1>
+                        <ol class="breadcrumb mb-4">
+                            <li class="breadcrumb-item"><a href="index.jsp">Dashboard</a></li>
+                            <li class="breadcrumb-item active">Users</li>
+                        </ol>
+                        <div class="card mb-4">
+                            <div class="card-header"><i class="fas fa-table mr-1"></i>DataTable Example</div>
+                            <div class="card-body">
+                                <div class="table-responsive">
+                                <table class="table">
+	                                <thead>
+	                                	<tr>
+	                                		<td>User Id</td>
+		                                	<td>First Name</td>
+		                                	<td>Last Name</td>
+		                                	<td>Phone Number</td>
+		                                	<td>Email Address</td>
+		                                	<td>Address</td>
+		                                	<td>Gender</td>
+		                                	<td>Edit</td>
+		                                	<td>Delete</td>
+	                                	</tr>
+	                                </thead>
+	                                <tbody>
+	                                	<% 
+	                                	 response.setContentType("text/html");
+	                                	PrintWriter out = response.getWriter();
+	                                	List<Users> list=UsersDao.getAllUsers();
+	                                	for(Users e:list){
+	                                        "<tr><td>"+e.getId()+"</td><td>"+e.getName()+"</td><td>"+e.getPassword()+"</td><td>"+e.getEmail()+"</td><td>"+e.getCountry()+"</td>";
+	                            //<td><a href='EditServlet?id="+e.getId()+"'>edit</a></td>
+	                             //<td><a href='DeleteServlet?id="+e.getId()+"'>delete</a></td></tr>");
+	                                    }
+	                                    out.print("</table>");
+
+	                                    out.close();
+	                                	%>
+	                                </tbody>
+                                </table>
+                                    
+                                </div>
+                                <a class="btn btn-primary" href="add-user.jsp">Add user</a>
+                                <a class="btn btn-warning" href="#">Delete User</a>
+                                <a class="btn btn-warning" href="#">Update User</a>
+                            </div>
+                        </div>
+                    </div>
+                </main>
+            </div>
+        </div>
+    </body>
+</html>

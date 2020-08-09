@@ -1,0 +1,38 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+
+public class StudentDb {
+	
+	public static Connection getConnection(){
+        Connection con=null;
+        try{
+            Class.forName("com.mysql.jdbc.Driver");
+            con= DriverManager.getConnection("jdbc:mysql://localhost/ELibrary","root","");
+        }catch(Exception e){System.out.println(e);}
+        return con;   
+    }
+	
+	public static int saveStudent(Students s) {
+		int result =0;
+		
+		try {
+			Connection conn=UsersDao.getConnection();
+			PreparedStatement ps=conn.prepareStatement("insert into students_tb(first_name,last_name,regno,phone,email,address,gender,username,password) values(?,?,?,?,?,?,?,?,?)");
+			ps.setString(1, s.getFirstname());
+			ps.setString(2, s.getLastname());
+			ps.setString(3, s.getRegno());
+			ps.setString(4, s.getPhone());
+			ps.setString(5, s.getEmail());
+			ps.setString(6, s.getAddress());
+			ps.setString(7, s.getGender());
+			ps.setString(8, s.getUsername());
+			ps.setString(9, s.getPassword());
+			result =ps.executeUpdate();
+			conn.close();
+		}catch(Exception ex){ex.printStackTrace();}
+
+        return result;
+	}
+
+}

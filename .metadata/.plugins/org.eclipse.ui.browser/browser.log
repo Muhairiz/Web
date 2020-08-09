@@ -1,0 +1,494 @@
+
+Aug 04, 2020 14:06:09.508 NEW SESSION
+Aug 04, 2020 14:06:09.508 [11960:8108:0804/140609.461:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 14:06:09.512 [11960:8108:0804/140609.464:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:06:09.515 [11960:8108:0804/140609.465:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:06:09.517 [11960:8108:0804/140609.465:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:06:30.99 [11960:8108:0804/140630.097:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 14:06:33.477 [11960:8108:0804/140633.475:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:06:38.45 [11960:8108:0804/140638.043:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:06:38.717 [11960:8108:0804/140638.715:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:07:19.07 [11960:8108:0804/140719.005:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:07:25.467 [11960:8108:0804/140725.466:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 14:07:26.246 [11960:8108:0804/140726.244:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:07:37.842 [11960:8108:0804/140737.840:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:09:04.420 [11960:8108:0804/140904.418:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 14:09:16.975 [11960:8108:0804/140916.973:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:09:23.695 [11960:8108:0804/140923.693:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:09:36.480 [11960:8108:0804/140936.479:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:12:22.370 [11960:8108:0804/141222.369:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:12:23.254 [11960:8108:0804/141223.253:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 14:12:47.294 [11960:8108:0804/141247.292:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:12:54.49 [11960:8108:0804/141254.047:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:17:52.339 [11960:8108:0804/141752.337:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:18:19.274 [11960:8108:0804/141819.271:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:19:44.356 [11960:8108:0804/141944.354:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 14:20:42.835 [11960:8108:0804/142042.834:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 04, 2020 14:21:30.819 [11960:8108:0804/142130.818:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 14:21:44.869 [11960:8108:0804/142144.868:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 14:23:23.868 [11960:8108:0804/142323.867:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 14:23:37.854 [11960:8108:0804/142337.853:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 14:25:51.863 [11960:8108:0804/142551.862:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 14:26:05.835 [11960:8108:0804/142605.834:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 14:27:59.828 [11960:8108:0804/142759.827:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 14:28:13.846 [11960:8108:0804/142813.845:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 14:38:13.849 [11960:8108:0804/143813.847:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 14:42:37.753 [11960:8108:0804/144237.752:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 14:42:51.866 [11960:8108:0804/144251.865:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 14:44:16.781 [11960:8108:0804/144416.780:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 14:44:30.822 [11960:8108:0804/144430.821:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 14:46:59.776 [11960:8108:0804/144659.775:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 14:47:13.845 [11960:8108:0804/144713.844:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 14:48:26.765 [11960:8108:0804/144826.764:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 14:48:40.864 [11960:8108:0804/144840.862:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 19:26:53.883 [11960:8108:0804/192653.881:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 19:27:08.347 [11960:8108:0804/192708.346:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 19:31:05.878 [11960:8108:0804/193105.877:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 19:31:20.333 [11960:8108:0804/193120.332:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 19:41:10.812 [11960:8108:0804/194110.811:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 19:41:24.854 [11960:8108:0804/194124.853:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 19:42:54.672 [11960:8108:0804/194254.671:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 19:43:08.800 [11960:8108:0804/194308.799:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 19:53:08.804 [11960:8108:0804/195308.802:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 20:03:08.804 [11960:8108:0804/200308.804:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 20:10:27.759 [11960:8108:0804/201027.758:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 20:10:41.803 [11960:8108:0804/201041.803:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 20:14:58.417 [11960:8108:0804/201458.416:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 20:15:12.788 [11960:8108:0804/201512.787:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 20:17:03.598 [11960:8108:0804/201703.597:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 20:17:17.797 [11960:8108:0804/201717.796:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 20:25:21.864 [11960:8108:0804/202521.863:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 20:25:35.804 [11960:8108:0804/202535.803:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 20:26:16.850 [11960:8108:0804/202616.849:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 20:26:30.819 [11960:8108:0804/202630.819:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 20:33:23.736 [11960:4928:0804/203323.734:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Aug 04, 2020 20:36:30.822 [11960:8108:0804/203630.821:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 20:45:29.706 [11960:8108:0804/204529.705:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 20:45:44.315 [11960:8108:0804/204544.314:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 20:46:23.677 [11960:8108:0804/204623.677:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 20:46:37.817 [11960:8108:0804/204637.816:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 20:47:07.848 [11960:8108:0804/204707.847:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 20:47:21.833 [11960:8108:0804/204721.832:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 20:57:21.837 [11960:8108:0804/205721.836:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 21:00:15.604 [11960:8108:0804/210015.603:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 21:00:30.309 [11960:8108:0804/210030.308:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 21:10:30.314 [11960:8108:0804/211030.312:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 04, 2020 21:14:48.605 [11960:8108:0804/211448.604:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 04, 2020 21:15:03.309 [11960:8108:0804/211503.308:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Aug 05, 2020 24:44:47.908 NEW SESSION
+Aug 05, 2020 24:44:47.908 [9632:14504:0805/004447.903:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 24:44:47.946 [9632:14504:0805/004447.905:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 24:44:47.947 [9632:14504:0805/004447.905:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 24:44:47.949 [9632:14504:0805/004447.905:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 24:45:11.10 [9632:14504:0805/004511.008:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 24:45:11.778 [9632:14504:0805/004511.777:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 24:45:11.845 [9632:14504:0805/004511.843:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 24:45:12.967 [9632:14504:0805/004512.965:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 24:45:52.777 [9632:14504:0805/004552.775:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 24:45:57.459 [9632:14504:0805/004557.457:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 24:46:03.160 [9632:14504:0805/004603.158:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 24:46:10.542 [9632:14504:0805/004610.540:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 24:47:17.576 [9632:14504:0805/004717.574:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+
+Aug 05, 2020 09:59:33.703 NEW SESSION
+Aug 05, 2020 09:59:33.704 [4336:2944:0805/095933.658:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 09:59:33.751 [4336:2944:0805/095933.661:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 09:59:33.756 [4336:2944:0805/095933.662:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 09:59:33.761 [4336:2944:0805/095933.662:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 09:59:57.529 [4336:2944:0805/095957.528:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 09:59:59.60 [4336:2944:0805/095959.059:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 10:00:03.940 [4336:2944:0805/100003.938:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 05, 2020 10:00:05.870 [4336:2944:0805/100003.939:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 10:00:05.872 [4336:2944:0805/100003.943:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 05, 2020 10:00:18.819 [4336:2944:0805/100018.818:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 10:00:26.890 [4336:2944:0805/100026.889:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 05, 2020 10:00:41.823 [4336:2944:0805/100041.822:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 10:00:50.428 [4336:2944:0805/100050.427:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 10:00:51.810 [4336:2944:0805/100051.809:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 10:00:57.984 [4336:2944:0805/100057.983:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 10:02:24.705 [4336:2944:0805/100224.703:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 10:02:32.839 [4336:2944:0805/100232.838:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 10:02:41.23 [4336:2944:0805/100241.021:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 10:05:54.902 [4336:2944:0805/100554.901:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 10:05:59.833 [4336:2944:0805/100559.832:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 05, 2020 10:06:15.319 [4336:2944:0805/100615.317:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 10:06:18.482 [4336:2944:0805/100618.481:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 10:06:39.595 [4336:2944:0805/100639.594:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 10:12:35.514 [4336:2944:0805/101235.513:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 10:12:58.243 [4336:2944:0805/101258.242:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 19:29:31.816 [4336:2944:0805/192931.814:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 19:29:31.909 [4336:2944:0805/192931.908:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 05, 2020 19:29:47.333 [4336:2944:0805/192947.332:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 19:35:23.910 [4336:2944:0805/193523.909:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 05, 2020 19:35:38.850 [4336:2944:0805/193538.849:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 19:41:08.849 [4336:5624:0805/194108.847:ERROR:backend_impl.cc(1041)] Critical error found -8
+Aug 05, 2020 19:41:08.852 [4336:5624:0805/194108.848:ERROR:entry_impl.cc(998)] Failed to save user data
+Aug 05, 2020 19:45:38.854 [4336:2944:0805/194538.852:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Aug 05, 2020 21:10:15.40 NEW SESSION
+Aug 05, 2020 21:10:15.40 [5728:5792:0805/211015.007:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 21:10:15.141 [5728:5792:0805/211015.011:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:10:15.160 [5728:5792:0805/211015.011:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:10:15.172 [5728:5792:0805/211015.011:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:10:36.888 [5728:5792:0805/211036.887:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:10:39.190 [5728:5792:0805/211039.189:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:10:39.631 [5728:5792:0805/211039.629:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:10:41.277 [5728:5792:0805/211041.276:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 21:11:20.156 [5728:5792:0805/211120.154:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:11:24.536 [5728:5792:0805/211124.535:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:11:35.404 [5728:5792:0805/211135.401:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 21:11:37.13 [5728:5792:0805/211137.012:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:12:54.207 [5728:5792:0805/211254.206:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:13:07.816 [5728:5792:0805/211307.815:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 21:13:15.225 [5728:5792:0805/211315.224:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:13:17.84 [5728:5792:0805/211317.082:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:16:05.461 [5728:5792:0805/211605.460:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 21:16:39.855 [5728:5792:0805/211639.854:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:16:44.11 [5728:5792:0805/211644.010:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:16:52.338 [5728:5792:0805/211652.337:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:22:26.786 [5728:5792:0805/212226.786:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 05, 2020 21:22:41.825 [5728:5792:0805/212241.824:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:22:41.867 [5728:5792:0805/212241.829:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 21:23:29.201 [5728:5792:0805/212329.200:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:23:38.36 [5728:5792:0805/212338.035:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 05, 2020 21:30:37.776 [5728:5792:0805/213037.775:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 05, 2020 21:30:55.819 [5728:5792:0805/213055.818:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 05, 2020 21:31:10.804 [5728:5792:0805/213110.803:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 21:32:37.843 [5728:5792:0805/213237.842:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 05, 2020 21:32:53.368 [5728:5792:0805/213253.367:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 21:40:18.859 [5728:5792:0805/214018.859:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 05, 2020 21:40:33.825 [5728:5792:0805/214033.824:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 21:50:33.828 [5728:5792:0805/215033.827:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 05, 2020 22:14:20.605 [5728:5792:0805/221420.604:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 05, 2020 22:14:36.332 [5728:5792:0805/221436.331:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Aug 06, 2020 23:52:35.576 NEW SESSION
+Aug 06, 2020 23:52:35.577 [8980:9032:0806/235235.556:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 06, 2020 23:52:35.591 [8980:9032:0806/235235.558:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 06, 2020 23:52:35.593 [8980:9032:0806/235235.560:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 06, 2020 23:52:35.594 [8980:9032:0806/235235.560:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 06, 2020 23:53:00.677 [8980:9032:0806/235300.675:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 06, 2020 23:53:00.848 [8980:9032:0806/235300.846:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 06, 2020 23:53:02.871 [8980:9032:0806/235302.869:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 06, 2020 23:53:05.353 [8980:9032:0806/235305.351:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 06, 2020 23:53:45.122 [8980:9032:0806/235345.120:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 06, 2020 23:53:50.855 [8980:9032:0806/235350.853:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 06, 2020 23:53:54.87 [8980:9032:0806/235354.086:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 06, 2020 23:54:01.610 [8980:9032:0806/235401.609:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 06, 2020 23:54:42.868 [8980:9032:0806/235442.867:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 06, 2020 23:54:57.817 [8980:9032:0806/235457.816:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 06, 2020 23:55:16.589 [8980:9032:0806/235516.588:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 06, 2020 23:55:32.817 [8980:9032:0806/235532.816:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 06, 2020 23:55:48.265 [8980:9032:0806/235548.264:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 06, 2020 23:58:41.555 [8980:9032:0806/235841.552:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 06, 2020 23:58:55.598 [8980:9032:0806/235855.596:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 06, 2020 23:59:06.946 [8980:9032:0806/235906.944:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:00:41.383 [8980:9032:0807/000041.382:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2020 24:03:57.848 [8980:9032:0807/000357.847:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 07, 2020 24:04:12.809 [8980:9032:0807/000412.809:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2020 24:04:49.559 [8980:9032:0807/000449.558:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:05:08.565 [8980:9032:0807/000508.564:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 07, 2020 24:05:23.797 [8980:9032:0807/000523.796:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2020 24:05:24.668 [8980:9032:0807/000524.667:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:05:53.904 [8980:9032:0807/000553.903:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:06:22.849 [8980:9032:0807/000622.848:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 07, 2020 24:06:37.817 [8980:9032:0807/000637.817:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2020 24:07:35.894 [8980:9032:0807/000735.893:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 07, 2020 24:07:50.804 [8980:9032:0807/000750.803:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2020 24:10:21.872 [8980:9032:0807/001021.871:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 07, 2020 24:10:36.801 [8980:9032:0807/001036.800:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2020 24:43:18.990 [5692:9068:0807/004318.988:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2020 24:43:18.994 [5692:9068:0807/004318.990:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:43:18.996 [5692:9068:0807/004318.992:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:43:18.999 [5692:9068:0807/004318.992:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:43:41.118 [5692:9068:0807/004341.116:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:43:41.356 [5692:9068:0807/004341.354:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2020 24:43:41.534 [5692:9068:0807/004341.532:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:43:48.360 [5692:9068:0807/004348.358:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:44:22.315 [5692:9068:0807/004422.313:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2020 24:44:28.182 [5692:9068:0807/004428.180:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:44:30.497 [5692:9068:0807/004430.496:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:44:34.690 [5692:9068:0807/004434.688:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:44:47.824 [5692:9068:0807/004447.823:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 07, 2020 24:45:02.830 [5692:9068:0807/004502.829:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2020 24:45:58.696 [5692:9068:0807/004558.695:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:45:59.305 [5692:9068:0807/004559.304:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:46:01.360 [5692:9068:0807/004601.359:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:46:15.835 [5692:9068:0807/004615.834:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 07, 2020 24:46:30.819 [5692:9068:0807/004630.818:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2020 24:47:30.907 [5692:9068:0807/004730.906:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 07, 2020 24:47:45.822 [5692:9068:0807/004745.821:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2020 24:48:30.846 [5692:9068:0807/004830.844:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 07, 2020 24:48:45.831 [5692:9068:0807/004845.830:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2020 24:49:09.344 [5692:9068:0807/004909.343:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:49:16.521 [5692:9068:0807/004916.520:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:49:18.279 [5692:9068:0807/004918.278:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:54:49.516 [5692:9068:0807/005449.515:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:55:25.824 [5692:9068:0807/005525.823:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:55:30.651 [5692:9068:0807/005530.649:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 07, 2020 24:58:45.834 [5692:9068:0807/005845.833:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2020 01:00:09.837 [5692:9068:0807/010009.836:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 07, 2020 01:00:24.820 [5692:9068:0807/010024.819:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 07, 2020 06:55:14.892 [5692:9068:0807/065514.890:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 07, 2020 06:55:30.392 [5692:9068:0807/065530.391:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Aug 08, 2020 09:54:06.162 NEW SESSION
+Aug 08, 2020 09:54:06.162 [33724:35048:0808/095406.005:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 09:54:06.183 [33724:35048:0808/095406.006:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 09:54:06.184 [33724:35048:0808/095406.006:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 09:54:06.185 [33724:35048:0808/095406.006:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 09:54:27.541 [33724:35048:0808/095427.540:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 09:54:28.359 [33724:35048:0808/095428.357:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 09:54:32.229 [33724:35048:0808/095432.228:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 09:54:35.189 [33724:35048:0808/095435.188:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 09:55:12.644 [33724:35048:0808/095512.643:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 09:55:15.363 [33724:35048:0808/095515.362:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 09:55:23.72 [33724:35048:0808/095523.071:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 09:55:31.191 [33724:35048:0808/095531.190:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 09:56:02.751 [33724:35048:0808/095602.750:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 09:56:17.309 [33724:35048:0808/095617.308:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 09:56:49.726 [33724:35048:0808/095649.725:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 09:56:57.950 [33724:35048:0808/095657.949:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 09:57:29.465 [33724:35048:0808/095729.464:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 09:59:48.992 [33724:35048:0808/095948.991:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 10:00:03.325 [33724:35048:0808/100003.324:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 10:00:45.578 [33724:35048:0808/100045.576:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 10:03:43.336 [33724:35048:0808/100343.334:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 10:06:11.808 [33724:35048:0808/100611.806:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 10:06:58.185 [33724:35048:0808/100658.184:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 10:06:58.565 [33724:35048:0808/100658.564:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 10:11:22.796 [33724:35048:0808/101122.794:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 10:11:37.316 [33724:35048:0808/101137.315:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 10:22:52.830 [33724:35048:0808/102252.830:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 10:23:07.333 [33724:35048:0808/102307.332:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 10:33:07.337 [33724:35048:0808/103307.335:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 10:43:07.340 [33724:35048:0808/104307.338:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 11:04:41.621 [33724:35048:0808/110441.620:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 11:04:56.308 [33724:35048:0808/110456.307:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 11:14:56.312 [33724:35048:0808/111456.310:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 11:24:56.317 [33724:35048:0808/112456.315:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 11:34:56.321 [33724:35048:0808/113456.319:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 11:44:56.323 [33724:35048:0808/114456.321:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 11:48:59.712 [33724:35048:0808/114859.711:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 11:49:13.865 [33724:35048:0808/114913.864:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 11:52:36.663 [33724:35048:0808/115236.662:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 11:52:50.860 [33724:35048:0808/115250.859:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Aug 08, 2020 17:20:11.386 NEW SESSION
+Aug 08, 2020 17:20:11.386 [5884:5644:0808/172011.320:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 17:20:11.390 [5884:5644:0808/172011.323:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:20:11.393 [5884:5644:0808/172011.323:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:20:11.395 [5884:5644:0808/172011.323:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:20:37.102 [5884:5644:0808/172037.099:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:20:39.879 [5884:5644:0808/172039.878:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 17:20:40.290 [5884:5644:0808/172040.289:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:20:40.412 [5884:5644:0808/172040.411:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:21:21.841 [5884:5644:0808/172121.839:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:21:22.363 [5884:5644:0808/172122.361:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 17:21:28.339 [5884:5644:0808/172128.337:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:21:36.197 [5884:5644:0808/172136.196:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:23:03.622 [5884:5644:0808/172303.620:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:23:11.346 [5884:5644:0808/172311.344:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:23:16.280 [5884:5644:0808/172316.279:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:23:20.444 [5884:5644:0808/172320.443:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 17:47:36.808 [5884:5644:0808/174736.807:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:47:36.810 [5884:5644:0808/174736.809:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:47:36.812 [5884:5644:0808/174736.810:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:47:36.841 [5884:5644:0808/174736.840:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 17:47:51.838 [5884:5644:0808/174751.837:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 17:54:19.364 [5884:5644:0808/175419.362:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:54:55.821 [5884:5644:0808/175455.820:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:56:35.425 [7032:4544:0808/175635.424:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 17:56:35.430 [7032:4544:0808/175635.428:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:56:35.433 [7032:4544:0808/175635.428:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:56:35.435 [7032:4544:0808/175635.428:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:56:56.955 [7032:4544:0808/175656.954:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:57:01.835 [7032:4544:0808/175701.833:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:57:02.414 [7032:4544:0808/175702.413:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:57:04.276 [7032:4544:0808/175704.274:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 17:58:14.936 [8940:4560:0808/175814.935:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 17:58:14.937 [8940:4560:0808/175814.936:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:58:14.938 [8940:4560:0808/175814.936:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:58:14.940 [8940:4560:0808/175814.936:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:58:35.338 [8940:4560:0808/175835.337:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 17:58:38.43 [8940:4560:0808/175838.042:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:58:40.147 [8940:4560:0808/175840.146:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:58:41.703 [8940:4560:0808/175841.702:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:59:17.699 [8940:4560:0808/175917.699:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 17:59:26.37 [8940:4560:0808/175926.036:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:59:28.547 [8940:4560:0808/175928.544:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 17:59:34.745 [8940:4560:0808/175934.744:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:00:59.538 [8940:4560:0808/180059.537:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 18:01:13.670 [8940:4560:0808/180113.669:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:01:13.685 [8940:4560:0808/180113.669:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:01:13.697 [8940:4560:0808/180113.696:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 18:01:29.17 [8940:4560:0808/180129.016:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 18:01:29.19 [8940:4560:0808/180129.018:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:04:04.868 [9348:9464:0808/180404.866:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 18:04:04.872 [9348:9464:0808/180404.870:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:04:04.876 [9348:9464:0808/180404.871:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:04:04.879 [9348:9464:0808/180404.871:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:04:23.717 [9348:9464:0808/180423.715:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 18:04:28.440 [9348:9464:0808/180428.439:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:04:34.966 [9348:9464:0808/180434.965:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:04:35.460 [9348:9464:0808/180435.459:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:04:49.835 [9348:9464:0808/180449.834:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 18:05:11.955 [9348:9464:0808/180511.954:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:05:15.215 [9348:9464:0808/180515.214:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:05:33.183 [9348:9464:0808/180533.182:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:06:17.617 [9348:9464:0808/180617.616:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 18:06:45.948 [9348:9464:0808/180645.946:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:06:46.322 [9348:9464:0808/180646.321:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:07:11.954 [9348:9464:0808/180711.952:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:09:24.683 [9348:9464:0808/180924.682:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 18:09:38.913 [9348:9464:0808/180938.912:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:09:38.932 [9348:9464:0808/180938.924:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 18:09:54.345 [9348:9464:0808/180954.344:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:10:42.783 [9348:9464:0808/181042.782:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:16:41.827 [9348:9464:0808/181641.826:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:16:42.782 [9348:9464:0808/181642.781:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 18:16:56.800 [9348:9464:0808/181656.800:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 18:16:56.803 [9348:9464:0808/181656.801:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:17:07.113 [9348:9464:0808/181707.112:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 18:25:37.836 [9348:9464:0808/182537.835:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 18:25:51.800 [9348:9464:0808/182551.799:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 18:27:36.844 [9348:9464:0808/182736.843:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 18:27:50.807 [9348:9464:0808/182750.806:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 18:37:50.812 [9348:9464:0808/183750.810:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 18:40:37.873 [9348:9464:0808/184037.872:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 18:40:51.821 [9348:9464:0808/184051.820:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 19:25:45.866 [9348:9464:0808/192545.864:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 19:25:59.801 [9348:9464:0808/192559.800:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 19:28:50.757 [9348:9464:0808/192850.756:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 19:29:04.804 [9348:9464:0808/192904.802:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 19:30:54.543 [9348:9464:0808/193054.542:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 19:31:08.822 [9348:9464:0808/193108.822:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 19:41:08.833 [9348:9464:0808/194108.832:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 19:53:30.804 [9348:9464:0808/195330.803:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 19:53:44.833 [9348:9464:0808/195344.832:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 20:01:33.799 [9348:9464:0808/200133.798:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 20:01:47.815 [9348:9464:0808/200147.813:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 20:06:28.856 [9348:9464:0808/200628.855:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 20:06:42.843 [9348:9464:0808/200642.842:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 20:07:34.725 [9348:9464:0808/200734.724:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 20:07:48.824 [9348:9464:0808/200748.823:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 20:29:11.173 [9348:9464:0808/202909.486:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 20:29:23.826 [9348:9464:0808/202923.825:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 20:53:11.697 [9348:9464:0808/205311.696:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 20:53:26.300 [9348:9464:0808/205326.299:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 20:53:51.514 [9348:9352:0808/205351.513:ERROR:account_info_fetcher.cc(60)] OnGetTokenFailure: Connection failed (-105).
+Aug 08, 2020 20:59:08.689 [9348:9464:0808/205908.688:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 08, 2020 20:59:22.799 [9348:9464:0808/205922.798:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+
+Aug 08, 2020 22:00:19.468 NEW SESSION
+Aug 08, 2020 22:00:19.468 [5432:4780:0808/220019.414:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 08, 2020 22:00:19.545 [5432:4780:0808/220019.416:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 22:00:19.546 [5432:4780:0808/220019.417:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 22:00:19.547 [5432:4780:0808/220019.417:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 08, 2020 22:00:40.971 [5432:4780:0808/220040.970:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:06:48.481 [9128:8912:0809/110648.480:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 11:06:48.484 [9128:8912:0809/110648.482:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:06:48.485 [9128:8912:0809/110648.482:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:06:48.486 [9128:8912:0809/110648.482:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:22:17.400 [9372:8012:0809/112217.400:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 11:22:17.402 [9372:8012:0809/112217.401:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:22:17.403 [9372:8012:0809/112217.401:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:22:17.404 [9372:8012:0809/112217.401:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:22:42.49 [9372:8012:0809/112242.048:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 11:22:43.482 [9372:8012:0809/112243.481:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:22:45.142 [9372:8012:0809/112245.140:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:22:45.462 [9372:8012:0809/112245.460:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:23:59.688 [9372:8012:0809/112359.687:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:23:59.700 [9372:8012:0809/112359.687:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:23:59.714 [9372:8012:0809/112359.687:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:24:00.711 [9372:8012:0809/112400.710:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 11:24:14.822 [9372:8012:0809/112414.821:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 11:24:22.844 [9372:8012:0809/112422.843:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 11:24:36.830 [9372:8012:0809/112436.829:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 11:25:34.310 [9372:8012:0809/112534.309:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:25:42.315 [9372:8012:0809/112542.314:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:25:52.146 [9372:8012:0809/112552.145:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:28:43.891 [9372:8012:0809/112843.889:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:28:44.904 [9372:8012:0809/112844.902:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:29:33.236 [9372:8012:0809/112933.235:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:31:33.735 [9372:8012:0809/113133.734:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 11:31:47.806 [9372:8012:0809/113147.805:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 11:35:11.974 [9372:8012:0809/113511.973:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:35:56.495 [9372:8012:0809/113556.493:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:36:43.683 [9372:8012:0809/113643.682:ERROR:registration_request.cc(246)] Registration URL fetching failed.
+Aug 09, 2020 11:39:12.706 [9372:8012:0809/113912.705:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 11:39:26.806 [9372:8012:0809/113926.805:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 11:48:58.834 [9372:8012:0809/114858.832:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 11:49:12.808 [9372:8012:0809/114912.808:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 11:52:03.705 [9372:8012:0809/115203.704:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 11:52:17.819 [9372:8012:0809/115217.818:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 11:55:39.797 [9372:8012:0809/115539.796:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 11:56:03.848 [9372:8012:0809/115603.847:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 11:57:43.566 [9372:8012:0809/115743.565:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 11:57:57.815 [9372:8012:0809/115757.814:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 12:00:05.839 [9372:8012:0809/120005.838:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 12:00:19.837 [9372:8012:0809/120019.836:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 12:00:52.823 [9372:8012:0809/120052.822:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 12:01:06.812 [9372:8012:0809/120106.811:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 12:11:06.817 [9372:8012:0809/121106.814:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 12:12:31.699 [9372:8012:0809/121231.698:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 12:12:45.803 [9372:8012:0809/121245.802:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 12:14:49.832 [9372:8012:0809/121449.831:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 12:15:03.803 [9372:8012:0809/121503.802:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 12:16:38.889 [9372:8012:0809/121638.862:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 12:16:52.920 [9372:8012:0809/121652.919:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 12:19:48.833 [9372:8012:0809/121948.831:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 12:20:02.808 [9372:8012:0809/122002.807:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 12:30:02.813 [9372:8012:0809/123002.811:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 12:38:45.248 [9372:8012:0809/123845.246:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 12:38:57.911 [9372:8012:0809/123857.910:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 12:43:13.846 [9372:8012:0809/124313.845:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 12:43:27.835 [9372:8012:0809/124327.834:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 12:44:16.754 [9372:8012:0809/124416.753:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 12:44:30.855 [9372:8012:0809/124430.854:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 13:07:14.805 [9372:8012:0809/130714.803:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 13:07:29.310 [9372:8012:0809/130729.309:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 13:17:29.314 [9372:8012:0809/131729.312:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 13:19:39.825 [9372:8012:0809/131939.824:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 13:19:53.810 [9372:8012:0809/131953.809:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 13:20:24.690 [9372:8012:0809/132024.689:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 13:20:38.812 [9372:8012:0809/132038.811:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 13:25:04.817 [9372:8012:0809/132504.816:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 13:25:18.806 [9372:8012:0809/132518.805:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 13:35:18.808 [9372:8012:0809/133518.807:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 13:43:29.610 [9372:8012:0809/134329.609:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 13:43:44.308 [9372:8012:0809/134344.307:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 13:45:16.776 [9372:8012:0809/134516.775:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 13:45:30.803 [9372:8012:0809/134530.802:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 14:00:30.680 [9372:8012:0809/140030.679:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 14:00:44.781 [9372:8012:0809/140044.780:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 14:04:26.850 [9372:8012:0809/140426.849:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 14:04:42.641 [9372:8012:0809/140442.640:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 14:04:56.782 [9372:8012:0809/140456.781:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 14:10:27.889 [9372:8012:0809/141027.888:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 14:10:41.807 [9372:8012:0809/141041.806:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 14:20:41.812 [9372:8012:0809/142041.810:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 14:30:41.814 [9372:8012:0809/143041.813:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 14:32:09.623 [9372:8012:0809/143209.622:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 14:32:23.781 [9372:8012:0809/143223.781:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 14:32:39.729 [9372:8012:0809/143239.729:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 14:32:53.775 [9372:8012:0809/143253.774:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 14:33:09.685 [9372:8012:0809/143309.684:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 14:33:23.789 [9372:8012:0809/143323.788:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 14:36:30.712 [9372:8012:0809/143630.711:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 14:36:44.783 [9372:8012:0809/143644.782:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 14:41:13.691 [9372:8012:0809/144113.690:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 14:41:41.788 [9372:8012:0809/144141.787:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 14:49:35.694 [9372:8012:0809/144935.693:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 14:49:49.787 [9372:8012:0809/144949.786:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 14:59:49.791 [9372:8012:0809/145949.790:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 15:00:02.751 [9372:8012:0809/150002.750:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 15:00:16.780 [9372:8012:0809/150016.780:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 15:01:20.736 [9372:8012:0809/150120.735:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 15:01:34.780 [9372:8012:0809/150134.779:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 15:04:11.686 [9372:8012:0809/150411.685:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 15:04:25.782 [9372:8012:0809/150425.781:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 15:11:27.550 [9372:8012:0809/151127.549:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -106
+Aug 09, 2020 15:11:41.781 [9372:8012:0809/151141.780:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
+Aug 09, 2020 15:21:31.810 [9372:8012:0809/152131.809:ERROR:connection_factory_impl.cc(420)] Failed to connect to MCS endpoint with error -105
