@@ -3,7 +3,8 @@
 <!DOCTYPE html>
 <html>
 <%@ include file ="includes/header.jsp" %>
-<body>
+<body class="bg-primary">
 <%@ include file ="includes/navbar.jsp" %>
+<h1>WELCOME IN E-LIBRARY SYSTEM</h1>
 </body>
 </html>

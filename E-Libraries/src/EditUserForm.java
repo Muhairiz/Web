@@ -37,7 +37,7 @@ public class EditUserForm extends HttpServlet {
 	        String sid=request.getParameter("id");
 	        int id=Integer.parseInt(sid);
 
-	        Students e=StudentDb.getStudentById(id);
+	        Users e=UsersDao.getUserById(id);
 
 	        out.print("<form action='EditUser' method='post'>");
 	        out.print("<table>");

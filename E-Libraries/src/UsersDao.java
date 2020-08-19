@@ -121,5 +121,30 @@ public class UsersDao {
 
 	        return result;
 	    }
+	 
+	 public Users checkLogin(String username,String password) throws SQLException {
+		 
+		 Connection con=UsersDao.getConnection();
+		 String sql ="select * from users_tb where username=? and password=?";
+		 PreparedStatement ps=con.prepareStatement(sql);
+		 
+		 ps.setString(1,username);
+		 ps.setString(2,password);
+		 ResultSet result =ps.executeQuery();
+		 
+		Users user=null;
+		
+		if(result.next()) {
+			user= new Users();
+			user.setUsername(result.getString("username"));
+			user.setPassword(result.getString("password"));
+		}
+		con.close();
+		return user;
+		 
+	 }
+	 
 	
 }
+
+

@@ -2,8 +2,6 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
-import java.util.ArrayList;
-import java.util.List;
 
 public class StudentDb {
 	
@@ -38,30 +36,6 @@ public class StudentDb {
         return result;
 	}
 	
-//	 public static List<Users> getAllUsers(){
-//	        List<Users> list=new ArrayList<Users>();
-//	        try{
-//	            Connection con=UsersDao.getConnection();
-//	            PreparedStatement ps=con.prepareStatement("select * from students_tb");
-//	            ResultSet rs=ps.executeQuery();
-//	            while(rs.next()){
-//	                Users us=new Users();
-//	                us.setId(rs.getInt(1));
-//	                us.setFirstname(rs.getString(2));
-//	                us.setLastname(rs.getString(3));
-//	                us.setPhone(rs.getString(4));
-//	                us.setEmail(rs.getString(5));
-//	                us.setAddress(rs.getString(6));
-//	                us.setGender(rs.getString(7));
-//	                us.setUsername(rs.getString(8));
-//	                us.setPassword(rs.getString(9));
-//	                list.add(us);
-//	            }
-//	            con.close();
-//	        }catch(Exception e){e.printStackTrace();}
-//
-//	        return list;
-//	    }
 	 public static int delete(int id){
 	        int status=0;
 	        try{
@@ -127,5 +101,6 @@ public class StudentDb {
 
 	        return us;
 	    }
+
 
 }
