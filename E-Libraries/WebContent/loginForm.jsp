@@ -5,7 +5,7 @@
 <head>
 <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Login Form</title>
 </head>
  <body class="bg-primary">
         <div id="layoutAuthentication">

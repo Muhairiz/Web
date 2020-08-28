@@ -69,5 +69,6 @@
                 </main>
             </div>
         </div>
+        <h4><%=myUser%></h4>
     </body>
 </html>

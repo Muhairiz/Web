@@ -55,7 +55,8 @@ public class LoginUser extends HttpServlet {
 					//request.getRequestDispatcher("Index.jsp").include(request, response);
 					//String destPage1 ="Index.jsp";
 				}else {
-					 out.println("Invalid username or password");
+					out.println("<div><div class='alert alert-danger col-md-3'><strong>Invalid username or password!</strong></div></div>");
+					 //out.println("<p align='center'>Invalid username or password</p>");
 			            //request.getRequestDispatcher("loginForm.jsp").include(request, response);
 				}
 				//RequestDispatcher rd =request.getRequestDispatcher(destPage1);

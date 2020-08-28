@@ -34,7 +34,7 @@ public class Logout extends HttpServlet {
 		
 		HttpSession session=request.getSession(false);
 		if(session!=null) {
-			session.removeAttribute("user");
+			session.removeAttribute("username");
 			RequestDispatcher rd= request.getRequestDispatcher("loginForm.jsp");
 			rd.forward(request, response);		
 		}

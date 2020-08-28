@@ -5,6 +5,7 @@
 <%@ include file ="includes/header.jsp" %>
 <body class="bg-primary">
 <%@ include file ="includes/navbar.jsp" %>
-<h1>WELCOME IN E-LIBRARY SYSTEM</h1>
+<h1><%=myUser%></h1>
+
 </body>
 </html>
